@@ -1,0 +1,9 @@
+C:\Users\harsh\Desktop\document_net\Document .Net (5.0.10.23)\Code samples\CSharp\04. Paragraph\07. Replace text in paragraph\bin\Debug\Sample.exe
+C:\Users\harsh\Desktop\document_net\Document .Net (5.0.10.23)\Code samples\CSharp\04. Paragraph\07. Replace text in paragraph\bin\Debug\Sample.pdb
+C:\Users\harsh\Desktop\document_net\Document .Net (5.0.10.23)\Code samples\CSharp\04. Paragraph\07. Replace text in paragraph\bin\Debug\SautinSoft.Document.dll
+C:\Users\harsh\Desktop\document_net\Document .Net (5.0.10.23)\Code samples\CSharp\04. Paragraph\07. Replace text in paragraph\bin\Debug\SautinSoft.Document.xml
+C:\Users\harsh\Desktop\document_net\Document .Net (5.0.10.23)\Code samples\CSharp\04. Paragraph\07. Replace text in paragraph\obj\Debug\Sample.csprojAssemblyReference.cache
+C:\Users\harsh\Desktop\document_net\Document .Net (5.0.10.23)\Code samples\CSharp\04. Paragraph\07. Replace text in paragraph\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\document_net\Document .Net (5.0.10.23)\Code samples\CSharp\04. Paragraph\07. Replace text in paragraph\obj\Debug\Sample.csproj.CopyComplete
+C:\Users\harsh\Desktop\document_net\Document .Net (5.0.10.23)\Code samples\CSharp\04. Paragraph\07. Replace text in paragraph\obj\Debug\Sample.exe
+C:\Users\harsh\Desktop\document_net\Document .Net (5.0.10.23)\Code samples\CSharp\04. Paragraph\07. Replace text in paragraph\obj\Debug\Sample.pdb
